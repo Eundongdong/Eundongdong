@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Eunji%20Kim&fontAlign=51&animation=fadeIn&textBg=false&desc=@Eundongdong%20&descAlignY=68&descAlign=88)
 ### About Me
 - I Majored in IT Engineering at Sookmyung Women's University 
- - Interested in Linux, Cloud, Spring, DB management
+ - Interested in Backend Developer
 
 ### Tech Stack
 Languages
