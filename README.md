@@ -1,8 +1,9 @@
-## Hi there 👋 <a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEundongdong&count_bg=%23C8E9B0&title_bg=%239ABA81&icon=iconify.svg&icon_color=%23FBF4F4&title=happy&edge_flat=false"/></a>
+## Develop the world 👋 <a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEundongdong&count_bg=%23C8E9B0&title_bg=%239ABA81&icon=iconify.svg&icon_color=%23FBF4F4&title=happy&edge_flat=false"/></a>
 ![header](https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Eunji%20Kim&fontAlign=51&animation=fadeIn&textBg=false&desc=@Eundongdong%20&descAlignY=68&descAlign=88)
 ### About Me
 - I Majored in IT Engineering at Sookmyung Women's University 
  - Interested in Backend Developer
+ - ![Resume](https://eundongdong-log.vercel.app/eunji-kim-resume)
 
 ### Tech Stack
 Languages
